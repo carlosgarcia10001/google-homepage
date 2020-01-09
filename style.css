@@ -1,0 +1,35 @@
+a {
+    color: black;
+    font: 13px arial sans-serif;
+    padding: 0px 0px 0px 15px;
+}
+a:visited{
+    color: #600
+}
+
+img{
+    padding-top: 109px;
+    font-family: arial sans-serif;
+    height: 92px;
+    width: 272px;
+    -webkit-appearance: none;
+}
+textarea{
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline:none;
+    display:flex;
+    flex:100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+    font: 16px arial sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+    width: 582px;
+    background: #fff;
+    border: 1px solid #dfe1e5
+}
